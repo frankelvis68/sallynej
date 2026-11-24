@@ -277,7 +277,7 @@ export default function AdminPage() {
                 required
                 value={passwordInput}
                 onChange={(e) => setPasswordInput(e.target.value)}
-                placeholder="Enter admin password (default: admin123)"
+                placeholder="Enter password"
                 className="h-11 px-3.5 rounded-lg bg-[#f2f4f7] text-sm text-[#191c1e] border border-transparent focus:bg-white focus:outline-none focus:ring-2 focus:ring-[#24389c] transition-all"
               />
             </div>
