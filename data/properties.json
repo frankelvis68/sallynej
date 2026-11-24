@@ -1,0 +1,120 @@
+[
+  {
+    "id": "sample-2",
+    "slug": "contemporary-5-bedroom-villa-katampe",
+    "title": "Contemporary 5-Bedroom Villa with Pool",
+    "type": "house",
+    "listingType": "sale",
+    "price": 2347890,
+    "currency": "NGN",
+    "pricePeriod": "total",
+    "location": "Katampe Extension, Abuja",
+    "area": "katampe",
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "sizeSqm": 750,
+    "description": "Expansive ultra-modern luxury architectural duplex mansion in Katampe Extension with private infinity pool, manicured lawn, and glass terraces overlooking panoramic hills.",
+    "images": [
+      {
+        "src": "/images/properties/prop-2.jpg",
+        "alt": "Contemporary 5-Bedroom Villa with Pool"
+      }
+    ],
+    "featured": true,
+    "isSample": true
+  },
+  {
+    "id": "sample-3",
+    "slug": "modern-3-bedroom-serviced-flat-lugbe",
+    "title": "Modern 3-Bedroom Serviced Flat",
+    "type": "flat",
+    "listingType": "rent",
+    "price": 4500000,
+    "currency": "NGN",
+    "pricePeriod": "year",
+    "location": "Lugbe, Airport Road Corridor",
+    "area": "lugbe",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "sizeSqm": 180,
+    "description": "Chic interior living room of serviced modern apartment in Lugbe with floor to ceiling windows, 24/7 solar backup power, and dedicated facility management.",
+    "images": [
+      {
+        "src": "/images/properties/prop-3.jpg",
+        "alt": "3-Bedroom Serviced Flat in Lugbe"
+      }
+    ],
+    "featured": true,
+    "isSample": true
+  },
+  {
+    "id": "sample-4",
+    "slug": "luxury-2-bedroom-executive-shortlet-airport-road",
+    "title": "Luxury 2-Bedroom Executive Short Let",
+    "type": "flat",
+    "listingType": "short-let",
+    "price": 155000,
+    "currency": "NGN",
+    "pricePeriod": "night",
+    "location": "Airport Road, Abuja",
+    "area": "airport-road",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sizeSqm": 120,
+    "description": "High-end penthouse executive apartment with fiber Wi-Fi, chef on demand, 24/7 security and concierge services right along Airport Road.",
+    "images": [
+      {
+        "src": "/images/properties/prop-4.jpg",
+        "alt": "Luxury 2-Bedroom Short Let on Airport Road"
+      }
+    ],
+    "featured": true,
+    "isSample": true
+  },
+  {
+    "id": "sample-5",
+    "slug": "prime-residential-land-650sqm-kubwa",
+    "title": "Prime Residential Land (650sqm)",
+    "type": "land",
+    "listingType": "sale",
+    "price": 54,
+    "currency": "NGN",
+    "pricePeriod": "total",
+    "location": "Kubwa District, Abuja",
+    "area": "kubwa",
+    "sizeSqm": 650,
+    "description": "Pristine surveyed elevated residential land plot in Kubwa District with perimeter boundary pegging, clean dry topography, and AGIS-verified R of O.",
+    "images": [
+      {
+        "src": "/images/properties/prop-5.jpg",
+        "alt": "Prime Residential Land (650sqm)"
+      }
+    ],
+    "featured": true,
+    "isSample": true
+  },
+  {
+    "id": "sample-6",
+    "slug": "exclusive-4-bedroom-semi-detached-galadimawa",
+    "title": "Exclusive 4-Bedroom Semi-Detached",
+    "type": "house",
+    "listingType": "sale",
+    "price": 380000000,
+    "currency": "NGN",
+    "pricePeriod": "total",
+    "location": "Galadimawa, Abuja FCT",
+    "area": "galadimawa",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "sizeSqm": 380,
+    "description": "Modern geometric semi-detached duplex residential building in gated estate with asphalt access roads, perimeter security, and family-friendly community.",
+    "images": [
+      {
+        "src": "/images/properties/prop-6.jpg",
+        "alt": "4-Bedroom Semi-Detached in Galadimawa"
+      }
+    ],
+    "featured": true,
+    "isSample": true
+  }
+]
